@@ -170,7 +170,7 @@ def main():
 	prt('ok\n')
 	# Clean audios
 	print('Cleaning complete.')
-	print('Audio must be cleaned manually by executing JavaScript code located in file clean_audio.js in your browser console on page https://vk.com/audios.')
+	print('Audio must be cleaned manually by executing JavaScript code located in file clean_audio.js in your browser console on page https://vk.com/audio.')
 
 if __name__=='__main__':
 	main()
